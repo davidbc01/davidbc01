@@ -5,3 +5,6 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 
 ## Estadísticas 🎓  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidbc01&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=es" alt="davidbc01" /></p>
+
+## Trofeos 🏆
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01" alt="davidbc01" /></a> </p>
