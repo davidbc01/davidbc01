@@ -9,4 +9,4 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 ## Trofeos 🏆
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01" alt="davidbc01" /></a> </p>
 
-Mi otra cuenta: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*  
+Mi otra cuenta: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*@dkszdp  
