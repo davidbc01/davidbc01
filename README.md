@@ -1,7 +1,7 @@
 ## Perfil de estudiante de **David Bartol** en el *IES Castelar*  
 
 Estudiante de **Desarrollo de Aplicaciones Web**. 
-Mi otra cuenta: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*
+Mi otra cuenta: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbc01&label=Visitas%20al%20perfil&color=000000&style=flat" alt="davidbc01" /> </p>
 
 ## Estadísticas 🎓  
