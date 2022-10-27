@@ -14,3 +14,5 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 ⚡ **Mi otra cuenta**: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*  
 
 <a><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=davidbc01"</a>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=davidbc01](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=davidbc01)&no-frame=true&theme=gitdimmed" alt="davidbc01" /></a> </p>
