@@ -12,3 +12,5 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 <p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas" alt="davidbc01" /> </p>
 
 ⚡ **Mi otra cuenta**: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidbc01)](https://github.com/davidbc01?tab=repositories)
