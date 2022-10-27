@@ -14,6 +14,6 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 ⚡ **Mi otra cuenta**: https://github.com/dkszdp *(no tiene nada que ver con el instituto)*  
 
 
-<a href="https://hacked-github-stat-trophies.vercel.app/?username=davidbc01&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10">
-  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=davidbc01&column=4&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&margin-w=18&margin-h=10"/>
+<a href="https://hacked-github-stat-trophies.vercel.app/?username=davidbc01&theme=gitdimmed">
+  <img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=davidbc01&theme=gitdimmed"/>
 </a>
