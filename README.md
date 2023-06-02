@@ -11,7 +11,7 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbc01&layout=compact&theme=dark&locale=es&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&custom_title=Lenguajes+Mas+Usados+de+David" alt="davidbc01" /> &nbsp;
 
 ## Trofeos :trophy:
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01&no-frame=true&theme=gitdimmed&column=-1" alt="davidbc01" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01&no-frame=true&theme=gitdimmed&column=-1" alt="davidbc01" /> </p>
 
 <p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas" alt="davidbc01" /> </p>
 
