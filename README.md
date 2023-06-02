@@ -15,4 +15,4 @@ Estudiante de **Desarrollo de Aplicaciones Web**.
 
 <p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas" alt="davidbc01" /> </p>
 
-⚡ **Mi otra cuenta**: [@dkszdp](https://github.com/dkszdp)
+⚡ **Mi otra cuenta: [@dkszdp](https://github.com/dkszdp)**
