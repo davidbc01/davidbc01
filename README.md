@@ -1,6 +1,6 @@
 ## Perfil de estudiante de **David** en el *IES Castelar*  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web.)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbc01&label=Visitas%20al%20perfil&color=000000&style=flat" alt="davidbc01" /> </p>
 
