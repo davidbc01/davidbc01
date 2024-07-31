@@ -1,6 +1,6 @@
-## Perfil de estudiante de **David** en el *IES Castelar*  
+## Perfil de **David** como *Desarrollador Web*  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika&size=15&duration=8000&pause=1000&color=79FF97&vCenter=true&random=false&width=435&height=16&lines=Desarrollador+Web.)
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidbc01&label=Visitas%20al%20perfil&color=000000&style=flat" alt="davidbc01" /> </p>
 
@@ -15,9 +15,5 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=davidbc01&no-frame=true&theme=gitdimmed&column=-1" alt="davidbc01" /></p>
 
 <p align="left"> <img src="https://img.shields.io/github/stars/davidbc01?color=black&label=Estrellas&style=flat" alt="davidbc01" /> </p>
-
-⚡ **Mi otra cuenta: [@dkszdp](https://github.com/dkszdp)**
-
-<hr>
 
 <p align="center"><strong>©️ Profile README design by <i>davidbc01</i> ⚡</strong></p>
