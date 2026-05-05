@@ -42,44 +42,6 @@ No me interesa solo que las cosas funcionen. Me interesa que estén bien pensada
 
 </div>
 
----
-
-## Proyectos destacados
-
-### 🏋️ [WorkoutNote](https://workoutnoteapp.com)
-> SaaS PWA de fitness en producción desde 2025
-
-Aplicación web para registrar entrenamientos, analizar tu progreso con métricas detalladas y mantener la constancia a través de un sistema de gamificación. Construida con Laravel y Livewire, con planes de nutrición y más de 300 ejercicios.
-
-`Laravel` `Livewire` `PWA` `MySQL` `Spatie`
-
----
-
-### 🌐 [Telar](https://github.com/davidbc01/telar)
-> Lenguaje de programación declarativo con sintaxis en español — v0.7.0
-
-Compila a HTML + CSS desde una sintaxis limpia y legible en español. Incluye soporte multi-archivo, keyword `clase`, integración con Tailwind CSS, extensión para VS Code y gestor de paquetes propio. Publicado en npm como `@davidbc01/telar`.
-
-`TypeScript` `Node.js` `Compiladores` `npm` `Open Source` `VS Code Extension`
-
----
-
-### 🛒 [PiezasParaTuVehiculo](https://piezasparatuvehiculo.com)
-> E-commerce de recambios de vehículos
-
-Tienda online completa construida para un desguace, con gestión de catálogo, pasarela de pago con Stripe y panel de administración personalizado.
-
-`Laravel` `Livewire` `Stripe` `Tailwind CSS` `MySQL`
-
----
-
-## Ahora mismo
-
-- 🏋️ **WorkoutNote** — creando un marketplace de entrenadores. En producción, iterando.
-- 🌐 **Telar** — manteniendo el ecosistema: compilador, gestor de paquetes y extensión de VS Code.
-
----
-
 ## Estadísticas
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px">
