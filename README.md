@@ -19,6 +19,7 @@ No me interesa solo que las cosas funcionen. Me interesa que estén bien pensada
 - 🏗️ Actualmente construyendo **[WorkoutNote](https://workoutnoteapp.com)** — plataforma SaaS de fitness en producción. Registro de entrenamientos, métricas de progreso y un sistema de gamificación que engancha
 - 💈 Cofundando Snipply — SaaS de gestión para barberías y salones, con algoritmo de predicción de no-shows y PWA nativa. En fase pre-lanzamiento
 - 🧪 Creador de **[Telar](https://github.com/davidbc01/telar)** — un lenguaje de programación declarativo con sintaxis en español
+- 📖 Creador de **[Commitea](https://commitea-web.vercel.app/)** — Git y GitHub explicados en español, para bajar la barrera de entrada a quien empieza a programar
 
 ---
 
